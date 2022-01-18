@@ -1,0 +1,26 @@
+./run_one_benchmark.sh lbm _HybridCache LBM_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/lbm/lru_Block0_STTRAM/lbm_check.txt
+#./run_one_benchmark.sh gcc _10 GCC_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/gcc/lru_Block0_STTRAM/gcc_check.txt
+#./run_one_benchmark.sh astar _10 ASTAR_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/astar/lru_Block0_STTRAM/astar_check.txt
+#./run_one_benchmark.sh bwaves _10 BWAVES_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/bwaves/lru_Block0_STTRAM/bwaves_check.txt
+#./run_one_benchmark.sh bzip _10 BZIP_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/bzip/lru_Block0_STTRAM/bzip_check.txt
+#./run_one_benchmark.sh cactusADM _10 CACTUSADM_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/cactusADM/lru_Block0_STTRAM/cactusADM_check.txt
+#./run_one_benchmark.sh GemsFDTD _10 GEMSFDTD_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/GemsFDTD/lru_Block0_STTRAM/GemsFDTD_check.txt
+#./run_one_benchmark.sh gobmk _10 GOBMK_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/gobmk/lru_Block0_STTRAM/gobmk_check.txt
+#./run_one_benchmark.sh gromacs _10 GROMACS_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/gromacs/lru_Block0_STTRAM/gromacs_check.txt
+#./run_one_benchmark.sh h264ref _10 H264REF_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/h264ref/lru_Block0_STTRAM/h264ref_check.txt
+#./run_one_benchmark.sh hmmer _10 HMMER_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/hmmer/lru_Block0_STTRAM/hmmer_check.txt
+#./run_one_benchmark.sh leslie _10 LESLIE_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/leslie/lru_Block0_STTRAM/leslie_check.txt
+#./run_one_benchmark.sh libq _10 LIBQ_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/libq/lru_Block0_STTRAM/libq_check.txt
+#./run_one_benchmark.sh mcf _10 MCF_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/mcf/lru_Block0_STTRAM/mcf_check.txt
+#./run_one_benchmark.sh milc _10 MILC_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/milc/lru_Block0_STTRAM/milc_check.txt
+#./run_one_benchmark.sh namd _10 NAMD_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/namd/lru_Block0_STTRAM/namd_check.txt
+#./run_one_benchmark.sh omnetpp _10 OMNETPP_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/omnetpp/lru_Block0_STTRAM/omnetpp_check.txt
+#./run_one_benchmark.sh perlbench _10 PERLBENCH_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/perlbench/lru_Block0_STTRAM/perlbench_check.txt
+#./run_one_benchmark.sh sjeng _10 SJENG_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/sjeng/lru_Block0_STTRAM/sjeng_check.txt
+#./run_one_benchmark.sh soplex _10 SOPLEX_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/soplex/lru_Block0_STTRAM/soplex_check.txt
+#./run_one_benchmark.sh sphinx _10 SPHINX_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/sphinx/lru_Block0_STTRAM/sphinx_check.txt
+#./run_one_benchmark.sh tonto _10 TONTO_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/tonto/lru_Block0_STTRAM/tonto_check.txt
+#./run_one_benchmark.sh trace _10 TRACE_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/trace/lru_Block0_STTRAM/trace_check.txt
+#./run_one_benchmark.sh wrf _10 WRF_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/wrf/lru_Block0_STTRAM/wrf_check.txt
+#./run_one_benchmark.sh zeusmp _10 ZEUSMP_LRU_Block0_STTRAM 2>&1 | tee /home/newton/research/tools/sniper-7.1/results/zeusmp/lru_Block0_STTRAM/zeusmp_check.txt
+
